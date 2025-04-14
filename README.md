@@ -27,7 +27,7 @@ To design an interactive dashboard that:
 
 ##  Screenshot
 
-![Dashboard Preview](screenshots_folder\generic-view.png)
+![Dashboard Preview](screenshots_folder/generic-view.png)
 
 
 ##  Key Insights
